@@ -24,6 +24,11 @@ With TestMu AI (Formerly LambdaTest), you can run Mocha Tags Tests across real b
 - Node.js and npm (latest stable)
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 # Steps
 With TestMu AI (Formerly LambdaTest), you can group your test builds with Build tags. These are added for tests by setting the tags in `buildTags` capability. The capabilites are located in `conf/single.conf.js` file.  The code below illustrates the usage:
 
