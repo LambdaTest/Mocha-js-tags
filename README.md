@@ -7,15 +7,15 @@
 
 ## Getting Started
 
-TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) is the world's first fully autonomous Agentic AI Quality Engineering Platform, enabling fast, reliable, and scalable automated testing across thousands of real browsers and devices.
+TestMu AI (Formerly LambdaTest) is the world's first fully autonomous Agentic AI Quality Engineering Platform, enabling fast, reliable, and scalable automated testing across thousands of real browsers and devices.
 
-This repository demonstrates how to add build tags to group builds in Mocha.js on TestMu AI (Formerly TestMu AI (Formerly LambdaTest)). You can refer to sample test repo [here](https://github.com/LambdaTest/Mocha-selenium-sample).
+This repository demonstrates how to add build tags to group builds in Mocha.js on TestMu AI (Formerly LambdaTest). You can refer to sample test repo [here](https://github.com/LambdaTest/Mocha-selenium-sample).
 
-- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly TestMu AI (Formerly LambdaTest)).
+- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
 # Steps
-With TestMu AI (Formerly TestMu AI (Formerly LambdaTest)), you can group your test builds with Build tags. These are added for tests by setting the tags in `buildTags` capability. The capabilites are located in `conf/single.conf.js` file.  The code below illustrates the usage:
+With TestMu AI (Formerly LambdaTest), you can group your test builds with Build tags. These are added for tests by setting the tags in `buildTags` capability. The capabilites are located in `conf/single.conf.js` file.  The code below illustrates the usage:
 
 ```js
 exports.capabilities = {
@@ -38,15 +38,15 @@ exports.capabilities = {
 npm run single
 ```
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community
+## TestMu AI (Formerly LambdaTest) Community
 
 Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Certifications
+## TestMu AI (Formerly LambdaTest) Certifications
 
 Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
 
-## Learning Resources by TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
+## Learning Resources by TestMu AI (Formerly LambdaTest)
 
 Learn modern testing through tutorials, guides, videos, and weekly updates:
 
